@@ -6,7 +6,7 @@ I wrote in my book “[Junior to Senior](https://gum.co/junior-to-senior)”:
 
 > Widely known simply as “SICP” and praised by many developers, this is an introductory Computer Science course at MIT turned into a book. It uses a dialect of Lisp for instruction (remember how useful it is to learn a language different from what you know?) and moves assuredly and swiftly through some advanced concepts.
 >
-> We’re not aiming to replicate a Computer Science degree, but to revisit or learn the fundamentals. Again, you don't _need_ to read [it] or do the exercises, but [it is] fun and accessible if you’re diligent, and you can learn a lot even if you're more experienced.
+> We’re not aiming to replicate a Computer Science degree, but to revisit or learn the fundamentals. Again, you don't _need_ to read [it] or do the exercises, but [it is] fun and accessible if you're diligent, and you can learn a lot even if you're more experienced.
 
 Never worked through the whole book myself (and I feel like my software construction skills are lacking), so I decided to take my own advice and do all 356 exercises. This is going to be fun (cue Dwarf Fortress fun meme).
 
