@@ -31,10 +31,12 @@
                      x)))
 
 #|
-(if ...) needs to provided as a special form instead of us writing a procedure
-in terms of (cond ...) because of the applicative order in which the interpreter
-works. The form (if ...) does not evaluate its else-clause operand until it is
-necessary i.e. when the predicate is false, which our (new-if ...) procedure has
+(if ...) needs to be provided as a special form instead of us writing
+a procedure in terms of (cond ...) because of the applicative order in which
+the interpreter works.
+
+The form (if ...) does not evaluate its else-clause operand until it is
+necessary i.e. when the predicate is false. But our (new-if ...) procedure has
 to evaluate the else-clause because it's a regular procedure.
 
 Consequently, when defining (sqrt-iter2 ...) in terms of (new-if ...) and trying
