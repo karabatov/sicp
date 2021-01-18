@@ -1,4 +1,4 @@
-# Progress: 8/356 exercises
+# Progress: 15/356 exercises
 
 This repository is me working through all the exercises in “Structure and Interpretation of Computer Programs” (by Harold Abelson and Gerald Jay Sussman with Julie Sussman).
 
